@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Excercise 2</string>
+    <string name="tvAlumnosDisponibles">Available students:</string>
+    <string name="tvNombre">Name(s):</string>
+    <string name="tvApellidos">Last name:</string>
+    <string name="tvMatricula">Enrollment:</string>
+    <string name="tvGenero">Gender:</string>
+    <string name="rbMasculino">Male.</string>
+    <string name="rbFemenino">Female.</string>
+    <string name="btnAgregar">Add student</string>
+    <string name="AlumnoAgregado">Has been added to: </string>
+    <string name="btnSiguiente">See list</string>
+    <string name="btnVolver">Back</string>
+    <string name="NombreInvaido">Please enter a valid name</string>
+    <string name="MatriculaInvalida">Please enter a valid registration(9 digits)</string>
+    <string name="masculino">Male</string>
+    <string name="femenino">Female</string>
+    <string name="generoInvalido">Please select a gender</string>
+    <string name="AlumnoToast"> has the ID: </string>
+</resources>
