@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ejercicio2</string>
+    <string name="tvAlumnosDisponibles">Alumnos disponibles:</string>
+    <string name="tvNombre">Nombre(s):</string>
+    <string name="tvApellidos">Apellidos:</string>
+    <string name="tvMatricula">Matricula:</string>
+    <string name="tvGenero">Género:</string>
+    <string name="rbMasculino">Masculino.</string>
+    <string name="rbFemenino">Femenino.</string>
+    <string name="btnAgregar">Agregar Alumno</string>
+    <string name="AlumnoAgregado">Se ha agregado a: </string>
+    <string name="btnSiguiente">Ver lista</string>
+    <string name="btnVolver">Volver</string>
+    <string name="NombreInvaido">Ingresa un nombre válido</string>
+    <string name="MatriculaInvalida">Ingresa una martícula válida</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="generoInvalido">Por favor ingresa un genero</string>
+    <string name="AlumnoToast"> tiene la ID: </string>
+</resources>
